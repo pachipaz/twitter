@@ -21,6 +21,9 @@
 .ok{ 
 margin-left: 80px; 
 font-size: 40px;
-display: inline-block;}
+display: inline-block;
+margin-left: 2px;}
 
-}
+.agregar{
+	border-color:#FF0000; 
+} 
